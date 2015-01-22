@@ -1,0 +1,3712 @@
+{
+ "poem": [
+  [
+   {
+    "v": "EMERGE tu recuerdo de la noche en que estoy.",
+    "w": [
+     {
+      "w": "EMERGE",
+      "s": [
+       "E",
+       "MER",
+       "GE"
+      ]
+     },
+     {
+      "w": "tu",
+      "s": [
+       "TU"
+      ]
+     },
+     {
+      "w": "recuerdo",
+      "s": [
+       "re",
+       "CUER",
+       "do"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "noche",
+      "s": [
+       "NO",
+       "che"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "que",
+      "s": [
+       "QUE"
+      ]
+     },
+     {
+      "w": "estoy",
+      "s": [
+       "es",
+       "TOY"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "El río anuda al mar su lamento obstinado.",
+    "w": [
+     {
+      "w": "El",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "río",
+      "s": [
+       "RÍ",
+       "o"
+      ]
+     },
+     {
+      "w": "anuda",
+      "s": [
+       "a",
+       "NU",
+       "da"
+      ]
+     },
+     {
+      "w": "al",
+      "s": [
+       "AL"
+      ]
+     },
+     {
+      "w": "mar",
+      "s": [
+       "MAR"
+      ]
+     },
+     {
+      "w": "su",
+      "s": [
+       "SU"
+      ]
+     },
+     {
+      "w": "lamento",
+      "s": [
+       "la",
+       "MEN",
+       "to"
+      ]
+     },
+     {
+      "w": "obstinado",
+      "s": [
+       "obs",
+       "ti",
+       "NA",
+       "do"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Abandonado como los muelles en el alba.",
+    "w": [
+     {
+      "w": "Abandonado",
+      "s": [
+       "A",
+       "ban",
+       "do",
+       "NA",
+       "do"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "muelles",
+      "s": [
+       "MUE",
+       "lles"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "alba",
+      "s": [
+       "AL",
+       "ba"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Es la hora de partir, oh abandonado!",
+    "w": [
+     {
+      "w": "Es",
+      "s": [
+       "ES"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "hora",
+      "s": [
+       "HO",
+       "ra"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "partir",
+      "s": [
+       "par",
+       "TIR"
+      ]
+     },
+     {
+      "w": "oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "abandonado",
+      "s": [
+       "a",
+       "ban",
+       "do",
+       "NA",
+       "do"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Sobre mi corazón llueven frías corolas.",
+    "w": [
+     {
+      "w": "Sobre",
+      "s": [
+       "SO",
+       "bre"
+      ]
+     },
+     {
+      "w": "mi",
+      "s": [
+       "MI"
+      ]
+     },
+     {
+      "w": "corazón",
+      "s": [
+       "co",
+       "ra",
+       "ZÓN"
+      ]
+     },
+     {
+      "w": "llueven",
+      "s": [
+       "LLUE",
+       "ven"
+      ]
+     },
+     {
+      "w": "frías",
+      "s": [
+       "FRÍ",
+       "as"
+      ]
+     },
+     {
+      "w": "corolas",
+      "s": [
+       "co",
+       "RO",
+       "las"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Oh sentina de escombros, feroz cueva de náufragos!",
+    "w": [
+     {
+      "w": "Oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "sentina",
+      "s": [
+       "sen",
+       "TI",
+       "na"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "escombros",
+      "s": [
+       "es",
+       "COM",
+       "bros"
+      ]
+     },
+     {
+      "w": "feroz",
+      "s": [
+       "fe",
+       "ROZ"
+      ]
+     },
+     {
+      "w": "cueva",
+      "s": [
+       "CUE",
+       "va"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "náufragos",
+      "s": [
+       "NÁU",
+       "fra",
+       "gos"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "En ti se acumularon las guerras y los vuelos.",
+    "w": [
+     {
+      "w": "En",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "se",
+      "s": [
+       "SE"
+      ]
+     },
+     {
+      "w": "acumularon",
+      "s": [
+       "a",
+       "cu",
+       "mu",
+       "LA",
+       "ron"
+      ]
+     },
+     {
+      "w": "las",
+      "s": [
+       "LAS"
+      ]
+     },
+     {
+      "w": "guerras",
+      "s": [
+       "GUE",
+       "rras"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "vuelos",
+      "s": [
+       "VUE",
+       "los"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "De ti alzaron las alas los pájaros del canto.",
+    "w": [
+     {
+      "w": "De",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "alzaron",
+      "s": [
+       "al",
+       "ZA",
+       "ron"
+      ]
+     },
+     {
+      "w": "las",
+      "s": [
+       "LAS"
+      ]
+     },
+     {
+      "w": "alas",
+      "s": [
+       "A",
+       "las"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "pájaros",
+      "s": [
+       "PÁ",
+       "ja",
+       "ros"
+      ]
+     },
+     {
+      "w": "del",
+      "s": [
+       "DEL"
+      ]
+     },
+     {
+      "w": "canto",
+      "s": [
+       "CAN",
+       "to"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Todo te lo tragaste, como la lejanía.",
+    "w": [
+     {
+      "w": "Todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "te",
+      "s": [
+       "TE"
+      ]
+     },
+     {
+      "w": "lo",
+      "s": [
+       "LO"
+      ]
+     },
+     {
+      "w": "tragaste",
+      "s": [
+       "tra",
+       "GAS",
+       "te"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "lejanía",
+      "s": [
+       "le",
+       "ja",
+       "NÍ",
+       "a"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Como el mar, como el tiempo. Todo en ti fue",
+    "w": [
+     {
+      "w": "Como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "mar",
+      "s": [
+       "MAR"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "tiempo",
+      "s": [
+       "TIEM",
+       "po"
+      ]
+     },
+     {
+      "w": "Todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "           naufragio!",
+    "w": [
+     {
+      "w": "naufragio",
+      "s": [
+       "nau",
+       "FRA",
+       "gio"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Era la alegre hora del asalto y el beso.",
+    "w": [
+     {
+      "w": "Era",
+      "s": [
+       "E",
+       "ra"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "alegre",
+      "s": [
+       "a",
+       "LE",
+       "gre"
+      ]
+     },
+     {
+      "w": "hora",
+      "s": [
+       "HO",
+       "ra"
+      ]
+     },
+     {
+      "w": "del",
+      "s": [
+       "DEL"
+      ]
+     },
+     {
+      "w": "asalto",
+      "s": [
+       "a",
+       "SAL",
+       "to"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "beso",
+      "s": [
+       "BE",
+       "so"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "La hora del estupor que ardía como un faro.",
+    "w": [
+     {
+      "w": "La",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "hora",
+      "s": [
+       "HO",
+       "ra"
+      ]
+     },
+     {
+      "w": "del",
+      "s": [
+       "DEL"
+      ]
+     },
+     {
+      "w": "estupor",
+      "s": [
+       "es",
+       "tu",
+       "POR"
+      ]
+     },
+     {
+      "w": "que",
+      "s": [
+       "QUE"
+      ]
+     },
+     {
+      "w": "ardía",
+      "s": [
+       "ar",
+       "DÍ",
+       "a"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "un",
+      "s": [
+       "UN"
+      ]
+     },
+     {
+      "w": "faro",
+      "s": [
+       "FA",
+       "ro"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Ansiedad de piloto, furia de buzo ciego,",
+    "w": [
+     {
+      "w": "Ansiedad",
+      "s": [
+       "An",
+       "sie",
+       "DAD"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "piloto",
+      "s": [
+       "pi",
+       "LO",
+       "to"
+      ]
+     },
+     {
+      "w": "furia",
+      "s": [
+       "FU",
+       "ria"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "buzo",
+      "s": [
+       "BU",
+       "zo"
+      ]
+     },
+     {
+      "w": "ciego",
+      "s": [
+       "CIE",
+       "go"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "turbia embriaguez de amor, todo en ti fue naufragio!",
+    "w": [
+     {
+      "w": "turbia",
+      "s": [
+       "TUR",
+       "bia"
+      ]
+     },
+     {
+      "w": "embriaguez",
+      "s": [
+       "em",
+       "bria",
+       "GUEZ"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "amor",
+      "s": [
+       "a",
+       "MOR"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     },
+     {
+      "w": "naufragio",
+      "s": [
+       "nau",
+       "FRA",
+       "gio"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "En la infancia de niebla mi alma alada y herida.",
+    "w": [
+     {
+      "w": "En",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "infancia",
+      "s": [
+       "in",
+       "FAN",
+       "cia"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "niebla",
+      "s": [
+       "NIE",
+       "bla"
+      ]
+     },
+     {
+      "w": "mi",
+      "s": [
+       "MI"
+      ]
+     },
+     {
+      "w": "alma",
+      "s": [
+       "AL",
+       "ma"
+      ]
+     },
+     {
+      "w": "alada",
+      "s": [
+       "a",
+       "LA",
+       "da"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "herida",
+      "s": [
+       "he",
+       "RI",
+       "da"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Descubridor perdido, todo en ti fue naufragio!",
+    "w": [
+     {
+      "w": "Descubridor",
+      "s": [
+       "Des",
+       "cu",
+       "bri",
+       "DOR"
+      ]
+     },
+     {
+      "w": "perdido",
+      "s": [
+       "per",
+       "DI",
+       "do"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     },
+     {
+      "w": "naufragio",
+      "s": [
+       "nau",
+       "FRA",
+       "gio"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Te ceñiste al dolor, te agarraste al deseo.",
+    "w": [
+     {
+      "w": "Te",
+      "s": [
+       "TE"
+      ]
+     },
+     {
+      "w": "ceñiste",
+      "s": [
+       "ce",
+       "ÑIS",
+       "te"
+      ]
+     },
+     {
+      "w": "al",
+      "s": [
+       "AL"
+      ]
+     },
+     {
+      "w": "dolor",
+      "s": [
+       "do",
+       "LOR"
+      ]
+     },
+     {
+      "w": "te",
+      "s": [
+       "TE"
+      ]
+     },
+     {
+      "w": "agarraste",
+      "s": [
+       "a",
+       "ga",
+       "RRAS",
+       "te"
+      ]
+     },
+     {
+      "w": "al",
+      "s": [
+       "AL"
+      ]
+     },
+     {
+      "w": "deseo",
+      "s": [
+       "de",
+       "SE",
+       "o"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Te tumbó la tristeza, todo en ti fue naufragio!",
+    "w": [
+     {
+      "w": "Te",
+      "s": [
+       "TE"
+      ]
+     },
+     {
+      "w": "tumbó",
+      "s": [
+       "tum",
+       "BÓ"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "tristeza",
+      "s": [
+       "tris",
+       "TE",
+       "za"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     },
+     {
+      "w": "naufragio",
+      "s": [
+       "nau",
+       "FRA",
+       "gio"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Hice retroceder la muralla de sombra,",
+    "w": [
+     {
+      "w": "Hice",
+      "s": [
+       "HI",
+       "ce"
+      ]
+     },
+     {
+      "w": "retroceder",
+      "s": [
+       "re",
+       "tro",
+       "ce",
+       "DER"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "muralla",
+      "s": [
+       "mu",
+       "RA",
+       "lla"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "sombra",
+      "s": [
+       "SOM",
+       "bra"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "anduve más allá del deseo y del acto.",
+    "w": [
+     {
+      "w": "anduve",
+      "s": [
+       "an",
+       "DU",
+       "ve"
+      ]
+     },
+     {
+      "w": "más",
+      "s": [
+       "MÁS"
+      ]
+     },
+     {
+      "w": "allá",
+      "s": [
+       "a",
+       "LLÁ"
+      ]
+     },
+     {
+      "w": "del",
+      "s": [
+       "DEL"
+      ]
+     },
+     {
+      "w": "deseo",
+      "s": [
+       "de",
+       "SE",
+       "o"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "del",
+      "s": [
+       "DEL"
+      ]
+     },
+     {
+      "w": "acto",
+      "s": [
+       "AC",
+       "to"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Oh carne, carne mía, mujer que amé y perdí,",
+    "w": [
+     {
+      "w": "Oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "carne",
+      "s": [
+       "CAR",
+       "ne"
+      ]
+     },
+     {
+      "w": "carne",
+      "s": [
+       "CAR",
+       "ne"
+      ]
+     },
+     {
+      "w": "mía",
+      "s": [
+       "MÍ",
+       "a"
+      ]
+     },
+     {
+      "w": "mujer",
+      "s": [
+       "mu",
+       "JER"
+      ]
+     },
+     {
+      "w": "que",
+      "s": [
+       "QUE"
+      ]
+     },
+     {
+      "w": "amé",
+      "s": [
+       "a",
+       "MÉ"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "perdí",
+      "s": [
+       "per",
+       "DÍ"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "a ti en esta hora húmeda, evoco y hago canto.",
+    "w": [
+     {
+      "w": "a",
+      "s": [
+       "A"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "esta",
+      "s": [
+       "ES",
+       "ta"
+      ]
+     },
+     {
+      "w": "hora",
+      "s": [
+       "HO",
+       "ra"
+      ]
+     },
+     {
+      "w": "húmeda",
+      "s": [
+       "HÚ",
+       "me",
+       "da"
+      ]
+     },
+     {
+      "w": "evoco",
+      "s": [
+       "e",
+       "VO",
+       "co"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "hago",
+      "s": [
+       "HA",
+       "go"
+      ]
+     },
+     {
+      "w": "canto",
+      "s": [
+       "CAN",
+       "to"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Como un vaso albergaste la infinita ternura,",
+    "w": [
+     {
+      "w": "Como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "un",
+      "s": [
+       "UN"
+      ]
+     },
+     {
+      "w": "vaso",
+      "s": [
+       "VA",
+       "so"
+      ]
+     },
+     {
+      "w": "albergaste",
+      "s": [
+       "al",
+       "ber",
+       "GAS",
+       "te"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "infinita",
+      "s": [
+       "in",
+       "fi",
+       "NI",
+       "ta"
+      ]
+     },
+     {
+      "w": "ternura",
+      "s": [
+       "ter",
+       "NU",
+       "ra"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "y el infinito olvido te trizó como a un vaso.",
+    "w": [
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "infinito",
+      "s": [
+       "in",
+       "fi",
+       "NI",
+       "to"
+      ]
+     },
+     {
+      "w": "olvido",
+      "s": [
+       "ol",
+       "VI",
+       "do"
+      ]
+     },
+     {
+      "w": "te",
+      "s": [
+       "TE"
+      ]
+     },
+     {
+      "w": "trizó",
+      "s": [
+       "tri",
+       "ZÓ"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "a",
+      "s": [
+       "A"
+      ]
+     },
+     {
+      "w": "un",
+      "s": [
+       "UN"
+      ]
+     },
+     {
+      "w": "vaso",
+      "s": [
+       "VA",
+       "so"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Era la negra, negra soledad de las islas,",
+    "w": [
+     {
+      "w": "Era",
+      "s": [
+       "E",
+       "ra"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "negra",
+      "s": [
+       "NE",
+       "gra"
+      ]
+     },
+     {
+      "w": "negra",
+      "s": [
+       "NE",
+       "gra"
+      ]
+     },
+     {
+      "w": "soledad",
+      "s": [
+       "so",
+       "le",
+       "DAD"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "las",
+      "s": [
+       "LAS"
+      ]
+     },
+     {
+      "w": "islas",
+      "s": [
+       "IS",
+       "las"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "y allí, mujer de amor, me acogieron tus brazos.",
+    "w": [
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "allí",
+      "s": [
+       "a",
+       "LLÍ"
+      ]
+     },
+     {
+      "w": "mujer",
+      "s": [
+       "mu",
+       "JER"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "amor",
+      "s": [
+       "a",
+       "MOR"
+      ]
+     },
+     {
+      "w": "me",
+      "s": [
+       "ME"
+      ]
+     },
+     {
+      "w": "acogieron",
+      "s": [
+       "a",
+       "co",
+       "GIE",
+       "ron"
+      ]
+     },
+     {
+      "w": "tus",
+      "s": [
+       "TUS"
+      ]
+     },
+     {
+      "w": "brazos",
+      "s": [
+       "BRA",
+       "zos"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Era la sed y el hambre, y tú fuiste la fruta.",
+    "w": [
+     {
+      "w": "Era",
+      "s": [
+       "E",
+       "ra"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "sed",
+      "s": [
+       "SED"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "hambre",
+      "s": [
+       "HAM",
+       "bre"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "tú",
+      "s": [
+       "TÚ"
+      ]
+     },
+     {
+      "w": "fuiste",
+      "s": [
+       "FUIS",
+       "te"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "fruta",
+      "s": [
+       "FRU",
+       "ta"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Era el duelo y las ruinas, y tú fuiste el milagro.",
+    "w": [
+     {
+      "w": "Era",
+      "s": [
+       "E",
+       "ra"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "duelo",
+      "s": [
+       "DUE",
+       "lo"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "las",
+      "s": [
+       "LAS"
+      ]
+     },
+     {
+      "w": "ruinas",
+      "s": [
+       "RUI",
+       "nas"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "tú",
+      "s": [
+       "TÚ"
+      ]
+     },
+     {
+      "w": "fuiste",
+      "s": [
+       "FUIS",
+       "te"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "milagro",
+      "s": [
+       "mi",
+       "LA",
+       "gro"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Ah mujer, no sé cómo pudiste contenerme",
+    "w": [
+     {
+      "w": "Ah",
+      "s": [
+       "AH"
+      ]
+     },
+     {
+      "w": "mujer",
+      "s": [
+       "mu",
+       "JER"
+      ]
+     },
+     {
+      "w": "no",
+      "s": [
+       "NO"
+      ]
+     },
+     {
+      "w": "sé",
+      "s": [
+       "SÉ"
+      ]
+     },
+     {
+      "w": "cómo",
+      "s": [
+       "CÓ",
+       "mo"
+      ]
+     },
+     {
+      "w": "pudiste",
+      "s": [
+       "pu",
+       "DIS",
+       "te"
+      ]
+     },
+     {
+      "w": "contenerme",
+      "s": [
+       "con",
+       "te",
+       "NER",
+       "me"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "en la tierra de tu alma, y en la cruz de tus brazos!",
+    "w": [
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "tierra",
+      "s": [
+       "TIE",
+       "rra"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "tu",
+      "s": [
+       "TU"
+      ]
+     },
+     {
+      "w": "alma",
+      "s": [
+       "AL",
+       "ma"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "cruz",
+      "s": [
+       "CRUZ"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "tus",
+      "s": [
+       "TUS"
+      ]
+     },
+     {
+      "w": "brazos",
+      "s": [
+       "BRA",
+       "zos"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Mi deseo de ti fue el más terrible y corto,",
+    "w": [
+     {
+      "w": "Mi",
+      "s": [
+       "MI"
+      ]
+     },
+     {
+      "w": "deseo",
+      "s": [
+       "de",
+       "SE",
+       "o"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "más",
+      "s": [
+       "MÁS"
+      ]
+     },
+     {
+      "w": "terrible",
+      "s": [
+       "te",
+       "RRI",
+       "ble"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "corto",
+      "s": [
+       "COR",
+       "to"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "el más revuelto y ebrio, el más tirante y ávido.",
+    "w": [
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "más",
+      "s": [
+       "MÁS"
+      ]
+     },
+     {
+      "w": "revuelto",
+      "s": [
+       "re",
+       "VUEL",
+       "to"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "ebrio",
+      "s": [
+       "E",
+       "brio"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "más",
+      "s": [
+       "MÁS"
+      ]
+     },
+     {
+      "w": "tirante",
+      "s": [
+       "ti",
+       "RAN",
+       "te"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "ávido",
+      "s": [
+       "Á",
+       "vi",
+       "do"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Cementerio de besos, aún hay fuego en tus tumbas,",
+    "w": [
+     {
+      "w": "Cementerio",
+      "s": [
+       "Ce",
+       "men",
+       "TE",
+       "rio"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "besos",
+      "s": [
+       "BE",
+       "sos"
+      ]
+     },
+     {
+      "w": "aún",
+      "s": [
+       "a",
+       "ÚN"
+      ]
+     },
+     {
+      "w": "hay",
+      "s": [
+       "HAY"
+      ]
+     },
+     {
+      "w": "fuego",
+      "s": [
+       "FUE",
+       "go"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "tus",
+      "s": [
+       "TUS"
+      ]
+     },
+     {
+      "w": "tumbas",
+      "s": [
+       "TUM",
+       "bas"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "aún los racimos arden picoteados de pájaros.",
+    "w": [
+     {
+      "w": "aún",
+      "s": [
+       "a",
+       "ÚN"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "racimos",
+      "s": [
+       "ra",
+       "CI",
+       "mos"
+      ]
+     },
+     {
+      "w": "arden",
+      "s": [
+       "AR",
+       "den"
+      ]
+     },
+     {
+      "w": "picoteados",
+      "s": [
+       "pi",
+       "co",
+       "te",
+       "A",
+       "dos"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "pájaros",
+      "s": [
+       "PÁ",
+       "ja",
+       "ros"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Oh la boca mordida, oh los besados miembros,",
+    "w": [
+     {
+      "w": "Oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "boca",
+      "s": [
+       "BO",
+       "ca"
+      ]
+     },
+     {
+      "w": "mordida",
+      "s": [
+       "mor",
+       "DI",
+       "da"
+      ]
+     },
+     {
+      "w": "oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "besados",
+      "s": [
+       "be",
+       "SA",
+       "dos"
+      ]
+     },
+     {
+      "w": "miembros",
+      "s": [
+       "MIEM",
+       "bros"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "oh los hambrientos dientes, oh los cuerpos trenzados.",
+    "w": [
+     {
+      "w": "oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "hambrientos",
+      "s": [
+       "ham",
+       "BRIEN",
+       "tos"
+      ]
+     },
+     {
+      "w": "dientes",
+      "s": [
+       "DIEN",
+       "tes"
+      ]
+     },
+     {
+      "w": "oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "cuerpos",
+      "s": [
+       "CUER",
+       "pos"
+      ]
+     },
+     {
+      "w": "trenzados",
+      "s": [
+       "tren",
+       "ZA",
+       "dos"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Oh la cópula loca de esperanza y esfuerzo",
+    "w": [
+     {
+      "w": "Oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "cópula",
+      "s": [
+       "CÓ",
+       "pu",
+       "la"
+      ]
+     },
+     {
+      "w": "loca",
+      "s": [
+       "LO",
+       "ca"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "esperanza",
+      "s": [
+       "es",
+       "pe",
+       "RAN",
+       "za"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "esfuerzo",
+      "s": [
+       "es",
+       "FUER",
+       "zo"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "en que nos anudamos y nos desesperamos.",
+    "w": [
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "que",
+      "s": [
+       "QUE"
+      ]
+     },
+     {
+      "w": "nos",
+      "s": [
+       "NOS"
+      ]
+     },
+     {
+      "w": "anudamos",
+      "s": [
+       "a",
+       "nu",
+       "DA",
+       "mos"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "nos",
+      "s": [
+       "NOS"
+      ]
+     },
+     {
+      "w": "desesperamos",
+      "s": [
+       "de",
+       "ses",
+       "pe",
+       "RA",
+       "mos"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Y la ternura, leve como el agua y la harina.",
+    "w": [
+     {
+      "w": "Y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "ternura",
+      "s": [
+       "ter",
+       "NU",
+       "ra"
+      ]
+     },
+     {
+      "w": "leve",
+      "s": [
+       "LE",
+       "ve"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "agua",
+      "s": [
+       "A",
+       "gua"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "harina",
+      "s": [
+       "ha",
+       "RI",
+       "na"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Y la palabra apenas comenzada en los labios.",
+    "w": [
+     {
+      "w": "Y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "palabra",
+      "s": [
+       "pa",
+       "LA",
+       "bra"
+      ]
+     },
+     {
+      "w": "apenas",
+      "s": [
+       "a",
+       "PE",
+       "nas"
+      ]
+     },
+     {
+      "w": "comenzada",
+      "s": [
+       "co",
+       "men",
+       "ZA",
+       "da"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "labios",
+      "s": [
+       "LA",
+       "bios"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Ése fue mi destino y en él viajó mi anhelo,",
+    "w": [
+     {
+      "w": "Ése",
+      "s": [
+       "É",
+       "se"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     },
+     {
+      "w": "mi",
+      "s": [
+       "MI"
+      ]
+     },
+     {
+      "w": "destino",
+      "s": [
+       "des",
+       "TI",
+       "no"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "él",
+      "s": [
+       "ÉL"
+      ]
+     },
+     {
+      "w": "viajó",
+      "s": [
+       "via",
+       "JÓ"
+      ]
+     },
+     {
+      "w": "mi",
+      "s": [
+       "MI"
+      ]
+     },
+     {
+      "w": "anhelo",
+      "s": [
+       "an",
+       "HE",
+       "lo"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "y en él cayó mi anhelo, todo en ti fue naufragio!",
+    "w": [
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "él",
+      "s": [
+       "ÉL"
+      ]
+     },
+     {
+      "w": "cayó",
+      "s": [
+       "ca",
+       "YÓ"
+      ]
+     },
+     {
+      "w": "mi",
+      "s": [
+       "MI"
+      ]
+     },
+     {
+      "w": "anhelo",
+      "s": [
+       "an",
+       "HE",
+       "lo"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     },
+     {
+      "w": "naufragio",
+      "s": [
+       "nau",
+       "FRA",
+       "gio"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Oh sentina de escombros, en ti todo caía,",
+    "w": [
+     {
+      "w": "Oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "sentina",
+      "s": [
+       "sen",
+       "TI",
+       "na"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "escombros",
+      "s": [
+       "es",
+       "COM",
+       "bros"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "caía",
+      "s": [
+       "ca",
+       "Í",
+       "a"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "qué dolor no exprimiste, qué olas no te ahogaron.",
+    "w": [
+     {
+      "w": "qué",
+      "s": [
+       "QUÉ"
+      ]
+     },
+     {
+      "w": "dolor",
+      "s": [
+       "do",
+       "LOR"
+      ]
+     },
+     {
+      "w": "no",
+      "s": [
+       "NO"
+      ]
+     },
+     {
+      "w": "exprimiste",
+      "s": [
+       "ex",
+       "pri",
+       "MIS",
+       "te"
+      ]
+     },
+     {
+      "w": "qué",
+      "s": [
+       "QUÉ"
+      ]
+     },
+     {
+      "w": "olas",
+      "s": [
+       "O",
+       "las"
+      ]
+     },
+     {
+      "w": "no",
+      "s": [
+       "NO"
+      ]
+     },
+     {
+      "w": "te",
+      "s": [
+       "TE"
+      ]
+     },
+     {
+      "w": "ahogaron",
+      "s": [
+       "a",
+       "ho",
+       "GA",
+       "ron"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "De tumbo en tumbo aún llameaste y cantaste",
+    "w": [
+     {
+      "w": "De",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "tumbo",
+      "s": [
+       "TUM",
+       "bo"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "tumbo",
+      "s": [
+       "TUM",
+       "bo"
+      ]
+     },
+     {
+      "w": "aún",
+      "s": [
+       "a",
+       "ÚN"
+      ]
+     },
+     {
+      "w": "llameaste",
+      "s": [
+       "lla",
+       "me",
+       "AS",
+       "te"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "cantaste",
+      "s": [
+       "can",
+       "TAS",
+       "te"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "de pie como un marino en la proa de un barco.",
+    "w": [
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "pie",
+      "s": [
+       "PIE"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "un",
+      "s": [
+       "UN"
+      ]
+     },
+     {
+      "w": "marino",
+      "s": [
+       "ma",
+       "RI",
+       "no"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "proa",
+      "s": [
+       "PRO",
+       "a"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "un",
+      "s": [
+       "UN"
+      ]
+     },
+     {
+      "w": "barco",
+      "s": [
+       "BAR",
+       "co"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Aún floreciste en cantos, aún rompiste en corrientes.",
+    "w": [
+     {
+      "w": "Aún",
+      "s": [
+       "A",
+       "ÚN"
+      ]
+     },
+     {
+      "w": "floreciste",
+      "s": [
+       "flo",
+       "re",
+       "CIS",
+       "te"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "cantos",
+      "s": [
+       "CAN",
+       "tos"
+      ]
+     },
+     {
+      "w": "aún",
+      "s": [
+       "a",
+       "ÚN"
+      ]
+     },
+     {
+      "w": "rompiste",
+      "s": [
+       "rom",
+       "PIS",
+       "te"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "corrientes",
+      "s": [
+       "co",
+       "RRIEN",
+       "tes"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Oh sentina de escombros, pozo abierto y amargo.",
+    "w": [
+     {
+      "w": "Oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "sentina",
+      "s": [
+       "sen",
+       "TI",
+       "na"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "escombros",
+      "s": [
+       "es",
+       "COM",
+       "bros"
+      ]
+     },
+     {
+      "w": "pozo",
+      "s": [
+       "PO",
+       "zo"
+      ]
+     },
+     {
+      "w": "abierto",
+      "s": [
+       "a",
+       "BIER",
+       "to"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "amargo",
+      "s": [
+       "a",
+       "MAR",
+       "go"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Pálido buzo ciego, desventurado hondero,",
+    "w": [
+     {
+      "w": "Pálido",
+      "s": [
+       "PÁ",
+       "li",
+       "do"
+      ]
+     },
+     {
+      "w": "buzo",
+      "s": [
+       "BU",
+       "zo"
+      ]
+     },
+     {
+      "w": "ciego",
+      "s": [
+       "CIE",
+       "go"
+      ]
+     },
+     {
+      "w": "desventurado",
+      "s": [
+       "des",
+       "ven",
+       "tu",
+       "RA",
+       "do"
+      ]
+     },
+     {
+      "w": "hondero",
+      "s": [
+       "hon",
+       "DE",
+       "ro"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "descubridor perdido, todo en ti fue naufragio!",
+    "w": [
+     {
+      "w": "descubridor",
+      "s": [
+       "des",
+       "cu",
+       "bri",
+       "DOR"
+      ]
+     },
+     {
+      "w": "perdido",
+      "s": [
+       "per",
+       "DI",
+       "do"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "ti",
+      "s": [
+       "TI"
+      ]
+     },
+     {
+      "w": "fue",
+      "s": [
+       "FUE"
+      ]
+     },
+     {
+      "w": "naufragio",
+      "s": [
+       "nau",
+       "FRA",
+       "gio"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Es la hora de partir, la dura y fría hora",
+    "w": [
+     {
+      "w": "Es",
+      "s": [
+       "ES"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "hora",
+      "s": [
+       "HO",
+       "ra"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "partir",
+      "s": [
+       "par",
+       "TIR"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "dura",
+      "s": [
+       "DU",
+       "ra"
+      ]
+     },
+     {
+      "w": "y",
+      "s": [
+       "Y"
+      ]
+     },
+     {
+      "w": "fría",
+      "s": [
+       "FRÍ",
+       "a"
+      ]
+     },
+     {
+      "w": "hora",
+      "s": [
+       "HO",
+       "ra"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "que la noche sujeta a todo horario.",
+    "w": [
+     {
+      "w": "que",
+      "s": [
+       "QUE"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "noche",
+      "s": [
+       "NO",
+       "che"
+      ]
+     },
+     {
+      "w": "sujeta",
+      "s": [
+       "su",
+       "JE",
+       "ta"
+      ]
+     },
+     {
+      "w": "a",
+      "s": [
+       "A"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "horario",
+      "s": [
+       "ho",
+       "RA",
+       "rio"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "El cinturón ruidoso del mar ciñe la costa.",
+    "w": [
+     {
+      "w": "El",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "cinturón",
+      "s": [
+       "cin",
+       "tu",
+       "RÓN"
+      ]
+     },
+     {
+      "w": "ruidoso",
+      "s": [
+       "rui",
+       "DO",
+       "so"
+      ]
+     },
+     {
+      "w": "del",
+      "s": [
+       "DEL"
+      ]
+     },
+     {
+      "w": "mar",
+      "s": [
+       "MAR"
+      ]
+     },
+     {
+      "w": "ciñe",
+      "s": [
+       "CI",
+       "ñe"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "costa",
+      "s": [
+       "COS",
+       "ta"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Surgen frías estrellas, emigran negros pájaros.",
+    "w": [
+     {
+      "w": "Surgen",
+      "s": [
+       "SUR",
+       "gen"
+      ]
+     },
+     {
+      "w": "frías",
+      "s": [
+       "FRÍ",
+       "as"
+      ]
+     },
+     {
+      "w": "estrellas",
+      "s": [
+       "es",
+       "TRE",
+       "llas"
+      ]
+     },
+     {
+      "w": "emigran",
+      "s": [
+       "e",
+       "MI",
+       "gran"
+      ]
+     },
+     {
+      "w": "negros",
+      "s": [
+       "NE",
+       "gros"
+      ]
+     },
+     {
+      "w": "pájaros",
+      "s": [
+       "PÁ",
+       "ja",
+       "ros"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Abandonado como los muelles en el alba.",
+    "w": [
+     {
+      "w": "Abandonado",
+      "s": [
+       "A",
+       "ban",
+       "do",
+       "NA",
+       "do"
+      ]
+     },
+     {
+      "w": "como",
+      "s": [
+       "CO",
+       "mo"
+      ]
+     },
+     {
+      "w": "los",
+      "s": [
+       "LOS"
+      ]
+     },
+     {
+      "w": "muelles",
+      "s": [
+       "MUE",
+       "lles"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "el",
+      "s": [
+       "EL"
+      ]
+     },
+     {
+      "w": "alba",
+      "s": [
+       "AL",
+       "ba"
+      ]
+     }
+    ]
+   },
+   {
+    "v": "Sólo la sombra trémula se retuerce en mis manos.",
+    "w": [
+     {
+      "w": "Sólo",
+      "s": [
+       "SÓ",
+       "lo"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "sombra",
+      "s": [
+       "SOM",
+       "bra"
+      ]
+     },
+     {
+      "w": "trémula",
+      "s": [
+       "TRÉ",
+       "mu",
+       "la"
+      ]
+     },
+     {
+      "w": "se",
+      "s": [
+       "SE"
+      ]
+     },
+     {
+      "w": "retuerce",
+      "s": [
+       "re",
+       "TUER",
+       "ce"
+      ]
+     },
+     {
+      "w": "en",
+      "s": [
+       "EN"
+      ]
+     },
+     {
+      "w": "mis",
+      "s": [
+       "MIS"
+      ]
+     },
+     {
+      "w": "manos",
+      "s": [
+       "MA",
+       "nos"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Ah más allá de todo. Ah más allá de todo.",
+    "w": [
+     {
+      "w": "Ah",
+      "s": [
+       "AH"
+      ]
+     },
+     {
+      "w": "más",
+      "s": [
+       "MÁS"
+      ]
+     },
+     {
+      "w": "allá",
+      "s": [
+       "a",
+       "LLÁ"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     },
+     {
+      "w": "Ah",
+      "s": [
+       "AH"
+      ]
+     },
+     {
+      "w": "más",
+      "s": [
+       "MÁS"
+      ]
+     },
+     {
+      "w": "allá",
+      "s": [
+       "a",
+       "LLÁ"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "todo",
+      "s": [
+       "TO",
+       "do"
+      ]
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "v": "Es la hora de partir. Oh abandonado!",
+    "w": [
+     {
+      "w": "Es",
+      "s": [
+       "ES"
+      ]
+     },
+     {
+      "w": "la",
+      "s": [
+       "LA"
+      ]
+     },
+     {
+      "w": "hora",
+      "s": [
+       "HO",
+       "ra"
+      ]
+     },
+     {
+      "w": "de",
+      "s": [
+       "DE"
+      ]
+     },
+     {
+      "w": "partir",
+      "s": [
+       "par",
+       "TIR"
+      ]
+     },
+     {
+      "w": "Oh",
+      "s": [
+       "OH"
+      ]
+     },
+     {
+      "w": "abandonado",
+      "s": [
+       "a",
+       "ban",
+       "do",
+       "NA",
+       "do"
+      ]
+     }
+    ]
+   }
+  ]
+ ]
+}
