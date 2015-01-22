@@ -3,6 +3,20 @@ var midi = require('midi'),
 
 beatOut = new midi.output();
 
+
+var spawn = require('child_process').spawn;
+vis = spawn(__dirname + '/run_visuals.sh');
+
+
+// gibber runs terribly on node.js - use midi
+// AudioContext = require('web-audio-api').AudioContext;
+// Gibber = require('./node_modules/gibber.audio.lib/build/gibber.audio.lib');
+// Gibber.init();
+
+var deaccent = require('diacritics').remove;
+
+// var synth = Mono('dark');
+
 try {
   midiOut.openPort(0);
   beatOut.openPort(1);
@@ -33,15 +47,20 @@ var notes = {
     // B:  71
     C:  24,
     Cs: 25,
+    Db: 25,
     D:  26,
     Ds: 27,
+    Eb: 27,
     E:  28,
     F:  29,
     Fs: 30,
+    Gb: 30,
     G:  31,
     Gs: 32,
+    Ab: 32,
     A:  33,
     As: 34,
+    Bb: 34,
     B:  35
 };
 
@@ -57,7 +76,7 @@ var scale = [
   "G",
   // "Gs", //
   "A",
-  "As",
+  "Bb",
   // "B" //
 ];
 
@@ -83,8 +102,8 @@ function chooseNote(syllable) {
 
   // if it's a tonic syllable then emphasize otherwise play soft
   var velocity = (syllable.toUpperCase() === syllable) ? 120 : 80;
-
-  return [note, velocity];
+  process.stdout.write("\033[30m" + noteName + octave + "\033[0m");
+  return [note, velocity, noteName+octave];
 
 }
 
@@ -98,25 +117,25 @@ var beatMod = 0;
 function drums() {
   ++beatMod;
 
-  if (beatMod % 4 === 0) {
+  if (beatMod === 0 || (beatMod % 4) === 0) {
     playBeat(36, 60 + ((Math.random() * 60) | 0));
   }
 
-  if (beatMod % 8 === 0) {
+  if ((beatMod % 8) === 0) {
     playBeat(37, 60 + ((Math.random() * 60) | 0));
   }
 
-  if (beatMod % 16 === 0) {
+  if ((beatMod % 16) === 0) {
     playBeat(38, 60 + ((Math.random() * 60) | 0));
   }
 
-  if (beatMod % 16 === 2) {
+  if ((beatMod % 16) === 2) {
     playBeat(39, 60 + ((Math.random() * 60) | 0));
   }
 
   playBeat(42, 40 + ((Math.random() * 60) | 0))
 
-  if (beatMod == 32) {
+  if (beatMod === 32) {
     beatMod = 0;
   }
 
@@ -131,11 +150,10 @@ function playBeat(note, vel) {
 }
 
 
-function playNote(syllable) {
-  printSyllable(syllable);
+function playNote(note) {
 
-  var note = chooseNote(syllable);
 
+  // synth.note(note[2]);
 
   midiOut.sendMessage([144, note[0], note[1]]);
   setTimeout(function() {
@@ -162,6 +180,7 @@ function stepStanza() {
 function stepVerse() {
   verse++;
   word = 0;
+  beatMod = 0;
   process.stdout.write("\n");
   var len = 0;
   while (len < 10) {
@@ -199,8 +218,11 @@ function stepSyllable() {
       return stepSyllable();
     }
 
-    playNote(sb);
+    printSyllable(sb);
 
+    var note = chooseNote(sb);
+    playNote(note);
+    sock.write(deaccent(sb));
     syllable++
 
   } catch (e) {
@@ -209,8 +231,24 @@ function stepSyllable() {
   }
 }
 
+// *sockets stuff
+var net = require('net');
 
-setInterval(stepSyllable, 1000/(BPM/60));
+var sock;
+var server = net.createServer(function function_name (connection) {
+  console.log('visuals connected');
+  sock = connection;
+  sock.on('end', function() {
+    console.log('visuals disconnected');
+  })
+
+  setInterval(stepSyllable, 1000/(BPM/60));
+
+});
+
+server.listen(5204, function() { //'listening' listener
+  console.log('server on');
+});
 
 
 

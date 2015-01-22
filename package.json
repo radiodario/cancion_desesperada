@@ -10,10 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "async": "^0.9.0",
+    "diacritics": "^1.2.1",
+    "gibber.audio.lib": "^0.4.8",
     "midi": "^0.9.0",
     "natural": "^0.2.0",
     "node-python": "0.0.4",
     "python-shell": "0.0.3",
+    "web-audio-api": "^0.2.1",
     "zerorpc": "^0.9.3"
   }
 }
